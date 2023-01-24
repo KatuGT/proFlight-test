@@ -1,0 +1,1 @@
+export const OptionLogo = [0, 1, 2, 3]
